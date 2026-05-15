@@ -4,6 +4,10 @@
 
 工具提供 Web UI 操作界面，核心处理在本机完成，依赖 `FFmpeg`，支持接入 OpenAI-compatible 视觉模型做剧情分析和精彩片段选择。
 
+## 界面预览
+
+![Video Mixer UI](docs/images/ui-overview.png)
+
 ## 下载与安装
 
 ### 直接下载可运行版本
@@ -22,6 +26,8 @@
 ```text
 http://127.0.0.1:8787
 ```
+
+如果后续发布了 GitHub Releases，也建议优先从 `Releases` 页面下载对应版本压缩包。
 
 ### 运行前要求
 
@@ -131,6 +137,12 @@ http://127.0.0.1:8787
 
 - `version_info.txt`
   Windows 可执行文件版本信息
+
+## 仓库文档
+
+- [FAQ](docs/FAQ.md)
+- [更新日志](CHANGELOG.md)
+- [Release 发布说明模板](.github/RELEASE_TEMPLATE.md)
 
 ## 从源码运行
 
