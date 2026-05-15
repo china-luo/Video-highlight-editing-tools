@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+
+build/
+dist/
+release_build/
+release_dist/
+
+tmp_intro_outro_test/
+tmp_story_http_test/
+tmp_story_test/
+web_mixer_jobs/
+
+.DS_Store
+Thumbs.db
